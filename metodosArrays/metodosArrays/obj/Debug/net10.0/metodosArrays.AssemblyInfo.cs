@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("metodosArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7d6ceda9b3cb2f0fba5be522d7f2668058cd622")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a485767f92b56ace25d809a7ec9ae402ef989dc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("metodosArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("metodosArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

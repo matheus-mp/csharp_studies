@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matheuspires/Documents/Desenvolvimento-Web-III/C#/votacao2.0/votacao2.0.csproj": {}
+    "/Users/matheuspires/RiderProjects/votacao2.0/votacao2.0.csproj": {}
   },
   "projects": {
-    "/Users/matheuspires/Documents/Desenvolvimento-Web-III/C#/votacao2.0/votacao2.0.csproj": {
+    "/Users/matheuspires/RiderProjects/votacao2.0/votacao2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matheuspires/Documents/Desenvolvimento-Web-III/C#/votacao2.0/votacao2.0.csproj",
+        "projectUniqueName": "/Users/matheuspires/RiderProjects/votacao2.0/votacao2.0.csproj",
         "projectName": "votacao2.0",
-        "projectPath": "/Users/matheuspires/Documents/Desenvolvimento-Web-III/C#/votacao2.0/votacao2.0.csproj",
+        "projectPath": "/Users/matheuspires/RiderProjects/votacao2.0/votacao2.0.csproj",
         "packagesPath": "/Users/matheuspires/.nuget/packages/",
-        "outputPath": "/Users/matheuspires/Documents/Desenvolvimento-Web-III/C#/votacao2.0/obj/",
+        "outputPath": "/Users/matheuspires/RiderProjects/votacao2.0/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/matheuspires/.nuget/NuGet/NuGet.Config"
