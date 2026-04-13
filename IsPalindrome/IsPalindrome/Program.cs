@@ -19,11 +19,11 @@ class Program
         }
         else
         {
-            arrXs = xs.ToCharArray();
+            arrXs = xs.ToCharArray(); //Converte o string para um array do tipo char
 
             Array.Reverse(arrXs);
 
-            r = string.Join("", arrXs);
+            r = string.Join("", arrXs); //Recebe o array como um string: "" é o parâmetro do que deve ter entre cada elemento
             
             if (r == xs)
             {
