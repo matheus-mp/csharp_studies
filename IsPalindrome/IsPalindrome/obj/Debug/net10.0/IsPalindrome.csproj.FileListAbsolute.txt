@@ -1,0 +1,15 @@
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/bin/Debug/net10.0/IsPalindrome
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/bin/Debug/net10.0/IsPalindrome.deps.json
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/bin/Debug/net10.0/IsPalindrome.runtimeconfig.json
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/bin/Debug/net10.0/IsPalindrome.dll
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/bin/Debug/net10.0/IsPalindrome.pdb
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/Debug/net10.0/IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/Debug/net10.0/IsPalindrome.AssemblyInfoInputs.cache
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/Debug/net10.0/IsPalindrome.AssemblyInfo.cs
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/Debug/net10.0/IsPalindrome.csproj.CoreCompileInputs.cache
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/Debug/net10.0/IsPalindrome.sourcelink.json
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/Debug/net10.0/IsPalindrome.dll
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/Debug/net10.0/refint/IsPalindrome.dll
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/Debug/net10.0/IsPalindrome.pdb
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/Debug/net10.0/IsPalindrome.genruntimeconfig.cache
+/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/Debug/net10.0/ref/IsPalindrome.dll

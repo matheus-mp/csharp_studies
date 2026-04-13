@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matheus/Documentos/csharp_studies/TwoSum/IsPalindrome/IsPalindrome.csproj",
+      "projectUniqueName": "/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/IsPalindrome.csproj",
       "projectName": "IsPalindrome",
-      "projectPath": "/home/matheus/Documentos/csharp_studies/TwoSum/IsPalindrome/IsPalindrome.csproj",
+      "projectPath": "/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/IsPalindrome.csproj",
       "packagesPath": "/home/matheus/.nuget/packages/",
-      "outputPath": "/home/matheus/Documentos/csharp_studies/TwoSum/IsPalindrome/obj/",
+      "outputPath": "/home/matheus/Documentos/csharp_studies/IsPalindrome/IsPalindrome/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/matheus/.nuget/NuGet/NuGet.Config"
