@@ -1,0 +1,15 @@
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/bin/Debug/net10.0/LongestCommonPrefix
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/bin/Debug/net10.0/LongestCommonPrefix.deps.json
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/bin/Debug/net10.0/LongestCommonPrefix.runtimeconfig.json
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/bin/Debug/net10.0/LongestCommonPrefix.dll
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/bin/Debug/net10.0/LongestCommonPrefix.pdb
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/net10.0/LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/net10.0/LongestCommonPrefix.AssemblyInfoInputs.cache
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/net10.0/LongestCommonPrefix.AssemblyInfo.cs
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/net10.0/LongestCommonPrefix.csproj.CoreCompileInputs.cache
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/net10.0/LongestCommonPrefix.sourcelink.json
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/net10.0/LongestCommonPrefix.dll
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/net10.0/refint/LongestCommonPrefix.dll
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/net10.0/LongestCommonPrefix.pdb
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/net10.0/LongestCommonPrefix.genruntimeconfig.cache
+/home/matheus/Documentos/csharp_studies/LongestCommonPrefix/LongestCommonPrefix/obj/Debug/net10.0/ref/LongestCommonPrefix.dll

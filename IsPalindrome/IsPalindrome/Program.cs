@@ -34,7 +34,7 @@ class Program
                 pal = false;
             }
         }
-
+        
         return pal;
     }
 
