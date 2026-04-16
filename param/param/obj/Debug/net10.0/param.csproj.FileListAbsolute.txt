@@ -1,0 +1,15 @@
+/home/matheus/Documentos/csharp_studies/param/param/bin/Debug/net10.0/param
+/home/matheus/Documentos/csharp_studies/param/param/bin/Debug/net10.0/param.deps.json
+/home/matheus/Documentos/csharp_studies/param/param/bin/Debug/net10.0/param.runtimeconfig.json
+/home/matheus/Documentos/csharp_studies/param/param/bin/Debug/net10.0/param.dll
+/home/matheus/Documentos/csharp_studies/param/param/bin/Debug/net10.0/param.pdb
+/home/matheus/Documentos/csharp_studies/param/param/obj/Debug/net10.0/param.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Documentos/csharp_studies/param/param/obj/Debug/net10.0/param.AssemblyInfoInputs.cache
+/home/matheus/Documentos/csharp_studies/param/param/obj/Debug/net10.0/param.AssemblyInfo.cs
+/home/matheus/Documentos/csharp_studies/param/param/obj/Debug/net10.0/param.csproj.CoreCompileInputs.cache
+/home/matheus/Documentos/csharp_studies/param/param/obj/Debug/net10.0/param.sourcelink.json
+/home/matheus/Documentos/csharp_studies/param/param/obj/Debug/net10.0/param.dll
+/home/matheus/Documentos/csharp_studies/param/param/obj/Debug/net10.0/refint/param.dll
+/home/matheus/Documentos/csharp_studies/param/param/obj/Debug/net10.0/param.pdb
+/home/matheus/Documentos/csharp_studies/param/param/obj/Debug/net10.0/param.genruntimeconfig.cache
+/home/matheus/Documentos/csharp_studies/param/param/obj/Debug/net10.0/ref/param.dll
