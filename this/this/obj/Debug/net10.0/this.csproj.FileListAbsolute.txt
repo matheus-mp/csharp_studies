@@ -1,0 +1,15 @@
+/home/matheus/Documentos/csharp_studies/this/this/bin/Debug/net10.0/this
+/home/matheus/Documentos/csharp_studies/this/this/bin/Debug/net10.0/this.deps.json
+/home/matheus/Documentos/csharp_studies/this/this/bin/Debug/net10.0/this.runtimeconfig.json
+/home/matheus/Documentos/csharp_studies/this/this/bin/Debug/net10.0/this.dll
+/home/matheus/Documentos/csharp_studies/this/this/bin/Debug/net10.0/this.pdb
+/home/matheus/Documentos/csharp_studies/this/this/obj/Debug/net10.0/this.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Documentos/csharp_studies/this/this/obj/Debug/net10.0/this.AssemblyInfoInputs.cache
+/home/matheus/Documentos/csharp_studies/this/this/obj/Debug/net10.0/this.AssemblyInfo.cs
+/home/matheus/Documentos/csharp_studies/this/this/obj/Debug/net10.0/this.csproj.CoreCompileInputs.cache
+/home/matheus/Documentos/csharp_studies/this/this/obj/Debug/net10.0/this.sourcelink.json
+/home/matheus/Documentos/csharp_studies/this/this/obj/Debug/net10.0/this.dll
+/home/matheus/Documentos/csharp_studies/this/this/obj/Debug/net10.0/refint/this.dll
+/home/matheus/Documentos/csharp_studies/this/this/obj/Debug/net10.0/this.pdb
+/home/matheus/Documentos/csharp_studies/this/this/obj/Debug/net10.0/this.genruntimeconfig.cache
+/home/matheus/Documentos/csharp_studies/this/this/obj/Debug/net10.0/ref/this.dll

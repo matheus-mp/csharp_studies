@@ -1,0 +1,15 @@
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/bin/Debug/net10.0/publicPrivate
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/bin/Debug/net10.0/publicPrivate.deps.json
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/bin/Debug/net10.0/publicPrivate.runtimeconfig.json
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/bin/Debug/net10.0/publicPrivate.dll
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/bin/Debug/net10.0/publicPrivate.pdb
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/obj/Debug/net10.0/publicPrivate.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/obj/Debug/net10.0/publicPrivate.AssemblyInfoInputs.cache
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/obj/Debug/net10.0/publicPrivate.AssemblyInfo.cs
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/obj/Debug/net10.0/publicPrivate.csproj.CoreCompileInputs.cache
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/obj/Debug/net10.0/publicPrivate.sourcelink.json
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/obj/Debug/net10.0/publicPrivate.dll
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/obj/Debug/net10.0/refint/publicPrivate.dll
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/obj/Debug/net10.0/publicPrivate.pdb
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/obj/Debug/net10.0/publicPrivate.genruntimeconfig.cache
+/home/matheus/Documentos/csharp_studies/publicPrivate/publicPrivate/obj/Debug/net10.0/ref/publicPrivate.dll
